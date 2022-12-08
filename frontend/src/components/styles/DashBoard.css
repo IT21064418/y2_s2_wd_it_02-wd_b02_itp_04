@@ -1,0 +1,35 @@
+.dashboard-header{
+    display: flex;
+    justify-content: center;
+    
+    background-color: white;
+    border-radius: 4px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#2E2E2E;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px;
+}
+.main-dashboard{
+    background-color: white;
+    margin: 60px;
+    padding: 40px;
+    border-radius: 4px;
+}
+.dashboard-btn{
+    width: 220px;
+    height: 180px;
+    margin: 40px;
+    font-size: 28px;
+    background-color: #ffac79;
+    border-radius: 20px;
+
+    border-color: white;
+}
+.dashboard-btn:hover{
+    background-color: white;
+    border-radius: 20px;
+
+    border-color: #2E2E2E;
+}
