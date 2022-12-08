@@ -36,5 +36,3 @@ seek our service in the near future.
  - Backend : Node.js / Express.js
  - Database : MongoDB
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
-
