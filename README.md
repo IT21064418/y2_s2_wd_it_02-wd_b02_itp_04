@@ -1,4 +1,3 @@
-Please go under edit and edit this file as needed for your project
 
 # Project Name - Vet Hospital Management System
 # Batch - WD - Batch 02 - Malabe
